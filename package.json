@@ -1,0 +1,22 @@
+{
+  "name": "myvue",
+  "version": "1.0.0",
+  "description": "a simple vue 框架 第一次修改 在dev中修改  出现bug101了，哈哈哈 已经修复bug101了，哈哈哈 正在开发新功能 正在开发新功能2 新功能3 新功能4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzpxx/myVue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzpxx/myVue/issues"
+  },
+  "homepage": "https://github.com/wzpxx/myVue#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
+}
